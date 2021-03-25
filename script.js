@@ -6,7 +6,7 @@ while (guess !== age) {
   guess = parseInt(guess)
   if (age > guess) {
     alert('Way to Low!')
- }  else if (guess > 15) {
+   } else if (guess > 15) {
     alert(' heyyyy im not that old!')
   }
 }
