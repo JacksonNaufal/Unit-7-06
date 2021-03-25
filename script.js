@@ -11,6 +11,3 @@ while (guess != age) {
 }
 alert ('You Got it!')
 document.write ('CONGRATULATIONS YOU WIN!')
-
-
-
